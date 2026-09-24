@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Задача 1/Задача 1.csproj" />
+  <Project Path="Задача 2/Задача 2.csproj" />
+  <Project Path="Задача 3/Задача 3.csproj" />
+</Solution>
